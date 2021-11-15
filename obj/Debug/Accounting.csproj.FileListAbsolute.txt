@@ -1,0 +1,6 @@
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Accounting\bin\Debug\Accounting.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Accounting\bin\Debug\Accounting.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Accounting\obj\Debug\Accounting.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Accounting\obj\Debug\Accounting.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Accounting\obj\Debug\Accounting.pdb
